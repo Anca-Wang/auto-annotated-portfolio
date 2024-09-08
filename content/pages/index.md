@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Hi, I''m Anca'
-    subtitle: Frontend developer / UX Designer / digital artist
+    subtitle: Frontend developer | UX Designer | Digital artist
     styles:
       self:
         height: auto

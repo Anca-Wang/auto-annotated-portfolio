@@ -31,7 +31,7 @@ sections:
           - pt-36
           - pb-48
           - pl-10
-          - pr-4
+          - pr-10
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse

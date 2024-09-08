@@ -42,7 +42,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Contact",
+                "label": "Contact Me",
                 "url": "mailto:thisismyemail.@myemail.me",
                 "altText": ""
             },

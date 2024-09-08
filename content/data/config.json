@@ -13,7 +13,7 @@
                 "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "git",
                 "icon": "github"
             },
             {

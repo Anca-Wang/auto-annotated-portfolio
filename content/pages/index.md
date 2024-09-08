@@ -124,7 +124,8 @@ sections:
         justifyContent: flex-end
   - type: ContactSection
     title: Contact Me
-    text: I'm look forward to hearing from you.
+    text: |
+      I'm looking forward to hearing from you.
     form:
       type: FormBlock
       title: Title of the form

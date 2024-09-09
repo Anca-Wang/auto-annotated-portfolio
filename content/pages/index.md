@@ -170,10 +170,8 @@ sections:
       - type: FeaturedItem
         title: 4. Inclusive personality
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          I'm an inclusive and flexible person, easygoing and friendly
         elementId: ''
         styles:
           self:

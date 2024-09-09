@@ -56,7 +56,7 @@ sections:
         label: JavaScript
         url: ''
       - type: Label
-        label: Next.js
+        label: TypeScript
         url: ''
       - type: Label
         label: Netlify

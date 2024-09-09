@@ -156,7 +156,7 @@ sections:
         title: 3. Fast Learning ability
         subtitle: ''
         text: |
-          I love learning and I learn fast
+          I love learning and **I learn fast**
         featuredImage:
           type: ImageBlock
           altText: Item image

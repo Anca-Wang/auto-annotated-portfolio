@@ -5,7 +5,7 @@ colors: colors-a
 date: '2024-08-08'
 client: Awesome client
 description: >-
-  - Axios HTTP Client- Open - Weather API- Real-time weather - and next 7 hours
+  - Axios HTTP Client - Open - Weather API- Real-time weather - and next 7 hours
   weather forecast- Search for different city and region weather
 featuredImage:
   type: ImageBlock

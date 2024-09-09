@@ -17,7 +17,7 @@ sections:
     subtitle: Frontend Developer | UX Designer | Digital Artist
     styles:
       self:
-        height: screen
+        height: auto
         width: narrow
         margin:
           - mt-0

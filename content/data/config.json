@@ -66,7 +66,7 @@
             "phoneAltText": "My phone number",
             "email": "ancawang888@gmail.com",
             "emailAltText": "My email",
-            "address": "SE15 6QW, London, UK",
+            "address": "London, UK",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by Netlify\n",

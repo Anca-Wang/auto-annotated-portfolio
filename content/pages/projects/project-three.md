@@ -13,7 +13,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/project3.png
+  url: /images/project2.png
   altText: Project image
 ---
 # Vue.js Dynamic To-Do List App

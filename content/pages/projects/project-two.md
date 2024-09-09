@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: API Weather Forecast
 colors: colors-a
-date: '2024-08-01'
+date: '2024-08-08'
 client: Awesome client
 description: >-
   - Axios HTTP Client- Open - Weather API- Real-time weather - and next 7 hours

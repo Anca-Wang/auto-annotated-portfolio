@@ -59,7 +59,7 @@ sections:
         label: TypeScript
         url: ''
       - type: Label
-        label: Netlify
+        label: React
         url: ''
       - type: Label
         label: Pancakes

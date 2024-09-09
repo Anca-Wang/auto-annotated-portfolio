@@ -158,7 +158,7 @@ sections:
         justifyContent: flex-start
   - type: ContactSection
     title: Contact Me
-    text: "I'm looking forward to hearing from you \U0001F499\n"
+    text: "\n\nLooking forward to hearing from you \U0001F499\n"
     form:
       type: FormBlock
       title: Title of the form

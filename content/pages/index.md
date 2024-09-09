@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Hi, I''m Anca'
+    title: 'Hi, I''m Anca :)'
     subtitle: Frontend Developer | UX Designer | Digital Artist
     styles:
       self:

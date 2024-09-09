@@ -143,10 +143,10 @@ sections:
       - type: FeaturedItem
         title: 2. Self-driven character
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          From a law school student to a frontend engineer and designer within 2
+          years, I know exactly what I want, and I work towards my goal
+          continuously and productively
         featuredImage:
           type: ImageBlock
           altText: Item image

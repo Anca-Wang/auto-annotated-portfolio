@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Project 1
+title: API Weather Forecast
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client

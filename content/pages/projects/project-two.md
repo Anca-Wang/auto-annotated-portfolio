@@ -6,7 +6,7 @@ date: '2024-08-08'
 client: Awesome client
 description: >-
   Real-time weather report and next 7 hours weather forecast, also support
-  searching for different city and region weather
+  searching for different cities and regions
 featuredImage:
   type: ImageBlock
   url: /images/project1.png

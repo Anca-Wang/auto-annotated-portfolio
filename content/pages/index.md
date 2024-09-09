@@ -80,48 +80,6 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
-  - type: LabelsSection
-    title: Skills
-    subtitle: ''
-    items:
-      - type: Label
-        label: HTML
-        url: ''
-      - type: Label
-        label: CSS
-        url: ''
-      - type: Label
-        label: JavaScript
-        url: ''
-      - type: Label
-        label: React
-        url: ''
-      - type: Label
-        label: Vue
-        url: ''
-      - type: Label
-        label: Tailwind
-        url: ''
-      - type: Label
-        label: Bootstrap
-        url: ''
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: xx-small
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: FeaturedItemsSection
     title: Value propositions
     items:

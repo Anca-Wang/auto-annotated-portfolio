@@ -9,16 +9,44 @@ description: >-
   storing at local storage
 featuredImage:
   type: ImageBlock
-  url: /images/project3.png
+  url: /images/l-project3.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/project3.png
+  url: /images/l-project3.png
   altText: Project image
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+# React Task Management App
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+
+A task management application built with React, featuring local storage for data persistence across sessions. The app allows users to manage tasks with an intuitive and fast interface, ensuring tasks are saved even after the browser is closed.
+
+[Check out the live demo here!](https://anca-wang.github.io/react-todoList/)
+
+[Source code](https://github.com/Anca-Wang/react-todoList/blob/main/README.md)
+
+## Purpose
+
+This app provides a straightforward way to manage tasks, with data persistence across sessions using local storage. Users can efficiently add and delete tasks while maintaining a smooth user experience optimized for quick input.
+
+## Features
+
+*   **Add/Delete Tasks**: Users can quickly add new tasks and remove them when completed.
+
+*   **Data Persistence**: Task data is saved to local storage, allowing users to access their tasks even after refreshing or reopening the browser.
+
+*   **Intuitive Interface**: The UI is designed for ease of use, allowing users to manage tasks with minimal effort.
+
+*   **Fast User Input**: Optimized for quick task creation and management, ensuring a responsive experience.
+
+## Future Updates
+
+*   **Task Editing**: Introduce functionality to edit tasks after they are added.
+
+*   **Task Categories**: Allow users to organize tasks into different categories or lists.
+
+*   **Priority and Deadlines**: Enable users to set task priorities and deadlines.
+
+*   **Cloud Sync**: Provide the option to sync tasks across devices through cloud storage.
 

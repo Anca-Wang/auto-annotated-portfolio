@@ -168,7 +168,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 4. Inclusivity personality
+        title: 4. Inclusive personality
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

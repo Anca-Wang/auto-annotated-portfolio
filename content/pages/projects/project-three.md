@@ -4,7 +4,9 @@ title: Vue To-Do List
 colors: colors-a
 date: '2024-08-15'
 client: Awesome client
-description: 'A to-do list coded with Vue, allowing users to add and delete tasks'
+description: >-
+  A to-do list coded with Vue, allowing users to add and delete tasks, with a
+  clean UI 
 featuredImage:
   type: ImageBlock
   url: /images/project2.png

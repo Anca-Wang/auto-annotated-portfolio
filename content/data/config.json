@@ -60,7 +60,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Homepage",
                 "altText": "",
                 "url": "https:anca.netlify.app",
                 "showIcon": false,

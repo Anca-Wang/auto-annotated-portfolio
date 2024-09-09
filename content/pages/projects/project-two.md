@@ -9,7 +9,7 @@ description: >-
   searching
 featuredImage:
   type: ImageBlock
-  url: /images/project1.png
+  url: /images/l-project1.png
   altText: Project thumbnail image
 media:
   type: ImageBlock

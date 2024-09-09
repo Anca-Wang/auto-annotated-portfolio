@@ -155,10 +155,8 @@ sections:
       - type: FeaturedItem
         title: 3. Fast Learning ability
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          I love learning and I learn fast
         featuredImage:
           type: ImageBlock
           altText: Item image

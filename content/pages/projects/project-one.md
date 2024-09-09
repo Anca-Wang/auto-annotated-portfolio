@@ -4,7 +4,9 @@ title: React To-Do List
 colors: colors-a
 date: '2024-08-23'
 client: React To-Do List
-description: 'A to-do list used react, allowing users to add, check and delete tasks'
+description: >-
+  A to-do list used react, allowing users to add, check and delete tasks,
+  storing at local storage
 featuredImage:
   type: ImageBlock
   url: /images/project3.png

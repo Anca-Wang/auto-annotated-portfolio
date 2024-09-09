@@ -133,10 +133,8 @@ sections:
       - type: FeaturedItem
         title: 1. Versitile
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          I can do both design and develop
         actions: []
         elementId: ''
         styles:

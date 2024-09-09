@@ -9,7 +9,7 @@ description: >-
   clean UI 
 featuredImage:
   type: ImageBlock
-  url: /images/l-project2.png
+  url: /images/project2.png
   altText: Project thumbnail image
 media:
   type: ImageBlock

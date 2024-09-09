@@ -3,7 +3,7 @@ type: ProjectLayout
 title: API Weather Forecast
 colors: colors-a
 date: '2024-08-08'
-client: Awesome client
+client: Project 1
 description: >-
   Real-time weather report and next 7 hours weather forecast, also support
   searching

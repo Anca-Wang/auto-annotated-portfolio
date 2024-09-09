@@ -4,10 +4,7 @@ title: Vue.js To-Do List
 colors: colors-a
 date: '2024-08-15'
 client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: 'A dynamic todo-list coded with Vue, allowing users to add and delete tasks'
 featuredImage:
   type: ImageBlock
   url: /images/project2.png

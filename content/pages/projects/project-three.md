@@ -40,8 +40,6 @@ This app is designed to provide users with a simple and efficient way to manage 
 
 ## Future Updates
 
-<!---->
-
 1.  **Task Editing**: Add the ability to edit tasks after they are created.
 
 2.  **Priority Levels**: Introduce task priority settings for better task management.
@@ -49,6 +47,4 @@ This app is designed to provide users with a simple and efficient way to manage 
 3.  **Due Dates and Reminders**: Allow users to set due dates and receive reminders.
 
 4.  **Data Persistence**: Enable saving tasks across sessions using local storage or cloud sync.
-
-5.
 

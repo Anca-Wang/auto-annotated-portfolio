@@ -106,7 +106,7 @@ sections:
         label: AJAX
         url: ''
       - type: Label
-        label: Swift
+        label: Tailwind
         url: ''
     colors: colors-f
     elementId: ''

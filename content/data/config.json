@@ -66,10 +66,10 @@
             "phoneAltText": "My phone number",
             "email": "ancawang888@gmail.com",
             "emailAltText": "My email",
-            "address": "64 St George's Way, SE15 6QW, London, UK",
+            "address": "London, UK",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "Powered by Netlify\n",
         "styles": {
             "self": {
                 "width": "narrow",

@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Hi, I''m Anca'
+    title: 'Hi, I''m Anca :)'
     subtitle: Frontend Developer | UX Designer | Digital Artist
     styles:
       self:
@@ -80,48 +80,82 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
-  - type: FeaturedPostsSection
-    elementId: ''
+  - type: FeaturedItemsSection
+    title: Value propositions
+    items:
+      - type: FeaturedItem
+        title: 1. Versitile Talent
+        subtitle: ''
+        text: |
+          I can do both **design** and **frontend develop**
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: 2. Self-driven character
+        subtitle: ''
+        text: >
+          From a **law school student** to a frontend engineer and designer
+          **within 2 years**, I know exactly what I want, and I work towards my
+          goal **continuously and productively**
+        featuredImage:
+          type: ImageBlock
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: 3. Fast Learning ability
+        subtitle: ''
+        text: |
+          I love learning and **I learn fast**
+        featuredImage:
+          type: ImageBlock
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: 4. Inclusive personality
+        subtitle: ''
+        text: |
+          I'm an **inclusive and flexible** person, **easygoing and friendly**
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
     colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
+    columns: 1
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
     styles:
       self:
         height: auto
         width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
           - pt-28
-          - pb-48
+          - pb-36
           - pl-4
           - pr-4
         justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
       title:
         textAlign: left
       subtitle:
         textAlign: left
       actions:
-        justifyContent: flex-end
+        justifyContent: flex-start
   - type: ContactSection
     title: Contact Me
     text: |
@@ -151,11 +185,6 @@ sections:
           placeholder: Tell me about yourself
           width: full
           isRequired: true
-        - type: CheckboxFormControl
-          name: updates
-          label: Sign me up to receive updates
-          width: full
-          isRequired: 'false'
       submitLabel: Send Message
       elementId: contact-form
       styles:

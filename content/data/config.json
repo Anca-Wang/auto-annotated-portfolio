@@ -69,7 +69,7 @@
             "address": "64 St George's Way, SE15 6QW, London, UK",
             "addressAltText": "My address"
         },
-        "copyrightText": "",
+        "copyrightText": "Powered by Netlify\n",
         "styles": {
             "self": {
                 "width": "narrow",

@@ -30,21 +30,25 @@ This app is designed to provide users with a simple and efficient way to manage 
 
 ## Features
 
-*   **Add/Delete Tasks**: Users can easily add new tasks and remove them once completed.
+1.  **Add/Delete Tasks**: Users can easily add new tasks and remove them once completed.
 
-*   **Task Completion**: Completed tasks are dynamically tracked and can be cleared with a single click.
+2.  **Task Completion**: Completed tasks are dynamically tracked and can be cleared with a single click.
 
-*   **Remaining Tasks Display**: A real-time display shows the number of remaining tasks.
+3.  **Remaining Tasks Display**: A real-time display shows the number of remaining tasks.
 
-*   **Minimalist UI**: The interface is designed to be clean and distraction-free, with smooth transitions and interactions.
+4.  **Minimalist UI**: The interface is designed to be clean and distraction-free, with smooth transitions and interactions.
 
 ## Future Updates
 
-*   **Task Editing**: Add the ability to edit tasks after they are created.
+<!---->
 
-*   **Priority Levels**: Introduce task priority settings for better task management.
+1.  **Task Editing**: Add the ability to edit tasks after they are created.
 
-*   **Due Dates and Reminders**: Allow users to set due dates and receive reminders.
+2.  **Priority Levels**: Introduce task priority settings for better task management.
 
-*   **Data Persistence**: Enable saving tasks across sessions using local storage or cloud sync.
+3.  **Due Dates and Reminders**: Allow users to set due dates and receive reminders.
+
+4.  **Data Persistence**: Enable saving tasks across sessions using local storage or cloud sync.
+
+5.
 

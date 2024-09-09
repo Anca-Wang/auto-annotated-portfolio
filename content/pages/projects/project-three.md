@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Vue To-Do List
 colors: colors-a
 date: '2024-08-15'
-client: Awesome client
+client: Project 2
 description: >-
   A to-do list coded with Vue, allowing users to add and delete tasks, with a
   clean UI 

@@ -62,7 +62,7 @@ sections:
         label: React
         url: ''
       - type: Label
-        label: Pancakes
+        label: Vue
         url: ''
       - type: Label
         label: C++

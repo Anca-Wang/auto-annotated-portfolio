@@ -48,6 +48,16 @@
             },
             {
                 "type": "Link",
+                "label": "Homepage",
+                "altText": "",
+                "url": "https:anca.netlify.app",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/ancawang",
                 "altText": ""
@@ -57,16 +67,6 @@
                 "label": "GitHub",
                 "url": "https://github.com/Anca-Wang",
                 "altText": "Netlify templates"
-            },
-            {
-                "type": "Link",
-                "label": "Homepage",
-                "altText": "",
-                "url": "https:anca.netlify.app",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
             }
         ],
         "contacts": {

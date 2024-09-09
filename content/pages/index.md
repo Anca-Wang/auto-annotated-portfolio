@@ -153,7 +153,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 3. Learning ability
+        title: 3. Fast Learning ability
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante

@@ -57,6 +57,16 @@
                 "label": "GitHub",
                 "url": "https://github.com/Anca-Wang",
                 "altText": "Netlify templates"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "https:anca.netlify.app",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "contacts": {

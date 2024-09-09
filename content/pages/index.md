@@ -128,7 +128,7 @@ sections:
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
-    title: 2. Self-driven character
+    title: Value propositions
     items:
       - type: FeaturedItem
         title: 1. Versitile Talent

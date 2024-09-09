@@ -108,6 +108,9 @@ sections:
       - type: Label
         label: Tailwind
         url: ''
+      - type: Label
+        label: Bootstrap
+        url: ''
     colors: colors-f
     elementId: ''
     styles:

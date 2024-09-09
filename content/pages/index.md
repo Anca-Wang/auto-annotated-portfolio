@@ -50,7 +50,7 @@ sections:
         label: HTML
         url: ''
       - type: Label
-        label: React
+        label: CSS
         url: ''
       - type: Label
         label: Microsoft Office

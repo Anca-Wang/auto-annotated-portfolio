@@ -103,7 +103,7 @@ sections:
         label: Vue
         url: ''
       - type: Label
-        label: C++
+        label: AJAX
         url: ''
       - type: Label
         label: Swift

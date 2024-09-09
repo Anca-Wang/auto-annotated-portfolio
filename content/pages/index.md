@@ -100,9 +100,6 @@ sections:
         label: Vue
         url: ''
       - type: Label
-        label: AJAX
-        url: ''
-      - type: Label
         label: Tailwind
         url: ''
       - type: Label

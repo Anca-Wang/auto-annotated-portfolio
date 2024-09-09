@@ -129,7 +129,7 @@ sections:
         title: 1. Versitile Talent
         subtitle: ''
         text: |
-          I can do both design and frontend develop
+          I can do both **design** and **frontend develop**
         actions: []
         elementId: ''
         styles:

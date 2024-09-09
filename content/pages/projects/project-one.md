@@ -9,11 +9,11 @@ description: >-
   storing at local storage
 featuredImage:
   type: ImageBlock
-  url: /images/l-project3.png
+  url: /images/project3.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/l-project3.png
+  url: /images/project3.png
   altText: Project image
 ---
 # React Task Management App

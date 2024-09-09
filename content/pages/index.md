@@ -171,7 +171,7 @@ sections:
         title: 4. Inclusive personality
         subtitle: ''
         text: |
-          I'm an inclusive and flexible person, easygoing and friendly
+          I'm an **inclusive and flexible** person, **easygoing and friendly**
         elementId: ''
         styles:
           self:

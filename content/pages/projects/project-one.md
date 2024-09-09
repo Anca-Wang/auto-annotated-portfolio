@@ -4,10 +4,7 @@ title: Project 3
 colors: colors-a
 date: '2021-10-15'
 client: React To-Do List
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: A to-do list using react
 featuredImage:
   type: ImageBlock
   url: /images/project3.png

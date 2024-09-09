@@ -53,7 +53,7 @@ sections:
         label: CSS
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: JavaScript
         url: ''
       - type: Label
         label: Next.js

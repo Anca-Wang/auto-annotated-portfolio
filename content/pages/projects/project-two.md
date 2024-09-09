@@ -4,7 +4,7 @@ title: API Weather Forecast
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: '- Axios'
+description: '- Axios HTTP client'
 featuredImage:
   type: ImageBlock
   url: /images/project1.png

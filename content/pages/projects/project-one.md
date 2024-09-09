@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Project 3
 colors: colors-a
-date: '2021-10-15'
+date: '2024-09-09'
 client: React To-Do List
 description: A to-do list using react
 featuredImage:

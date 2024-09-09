@@ -131,7 +131,7 @@ sections:
     title: Value propositions
     items:
       - type: FeaturedItem
-        title: 1. Versitile
+        title: 1. Versitile Talent
         subtitle: ''
         text: |
           I can do both design and develop

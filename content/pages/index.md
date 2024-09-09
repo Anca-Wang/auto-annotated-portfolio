@@ -94,9 +94,6 @@ sections:
         label: JavaScript
         url: ''
       - type: Label
-        label: TypeScript
-        url: ''
-      - type: Label
         label: React
         url: ''
       - type: Label

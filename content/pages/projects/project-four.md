@@ -4,8 +4,9 @@ title: App Design
 date: '2023-10-01'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  I led the design of this food prep app and delivered a high quality solution
+  within 2 weeks. The design is featured with cleanness and modern, adopting UX
+  design principle
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

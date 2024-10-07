@@ -88,7 +88,7 @@ sections:
         altText: See all projects
         url: /projects
         showIcon: false
-        icon: arrowRight
+        icon: apple
         iconPosition: right
         elementId: ''
     projects:

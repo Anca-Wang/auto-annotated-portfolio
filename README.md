@@ -1,6 +1,6 @@
-# Anca's Portfolio
+# [Anca's Portfolio](https://anca.netlify.app/)
 
-![Anca's , Frontend Developer | UX Designer | Content Creator](https://anca.netlify.app/)
+[Frontend Developer | UX Designer | Content Creator](https://anca.netlify.app/)
 
 This is a full-fledged portfolio website built with Next.js, Tailwind CSS, [visual editor](https://docs.netlify.com/visual-editor/overview/) and the [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
 

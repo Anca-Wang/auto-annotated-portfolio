@@ -4,8 +4,8 @@ title: Logo Design
 date: '2022-07-01'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Led the logo design of an international sandbox competition during internship
+  in a high-tech startup
 featuredImage:
   type: ImageBlock
   url: /images/Sandbox Logo更新-1.jpg

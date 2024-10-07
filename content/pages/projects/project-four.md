@@ -4,9 +4,8 @@ title: App Design
 date: '2023-10-01'
 client: Awesome client
 description: >-
-  I led the design of this food prep app and delivered a high quality solution
-  within 2 weeks. The design is featured with cleanness and modern, adopting UX
-  design principle
+  Led the research and design of a food prep app and delivered a high quality
+  solution within 2 weeks
 featuredImage:
   type: ImageBlock
   url: /images/0.png

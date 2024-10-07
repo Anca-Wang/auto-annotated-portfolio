@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Web Design
 date: '2024-02-01'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Led the design of a writing website Login Page
 featuredImage:
   type: ImageBlock
   url: /images/Login.png

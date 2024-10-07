@@ -81,7 +81,7 @@ sections:
         justifyContent: flex-end
     subtitle: Projects
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: Designs
     actions:
       - type: Link
         label: See all projects

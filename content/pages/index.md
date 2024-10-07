@@ -80,6 +80,44 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+  - type: FeaturedProjectsSection
+    subtitle: Designs
+    actions:
+      - type: Link
+        label: See all projects
+        altText: See all projects
+        url: /projects
+        showIcon: false
+        icon: ''
+        iconPosition: left
+        elementId: ''
+    projects:
+      - content/pages/projects/project-four.md
+      - content/pages/projects/project-five.md
+      - content/pages/projects/project-six.md
+    colors: colors-d
+    variant: variant-b
+    elementId: ''
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
   - type: FeaturedItemsSection
     title: Value propositions
     items:

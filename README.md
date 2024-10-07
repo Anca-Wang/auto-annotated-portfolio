@@ -1,6 +1,6 @@
-# Netlify Developer Portfolio Starter (auto-annotated)
+# Anca's Portfolio
 
-![Developer Portfolio](https://assets.stackbit.com/docs/personal-nextjs-starter-thumb.png)
+![Anca's , Frontend Developer | UX Designer | Content Creator](https://anca.netlify.app/)
 
 This is a full-fledged portfolio website built with Next.js, Tailwind CSS, [visual editor](https://docs.netlify.com/visual-editor/overview/) and the [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
 
@@ -13,11 +13,6 @@ The codebase showcases **how to apply annotations at scale**, meaning: how to ma
 
 **⚡ Demo:** [auto-annotated-portfolio.netlify.app](https://auto-annotated-portfolio.netlify.app)
 
-## Deploying to Netlify
-
-If you click "Deploy to Netlify" button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/auto-annotated-portfolio)
 
 ## Getting Started
 
@@ -41,12 +36,6 @@ This outputs your own Netlify visual editor URL. Open this, register or sign in,
 
 ![Next.js Dev + Netlify visual editor dev](https://assets.stackbit.com/docs/next-dev-stackbit-dev.png)
 
-## Next Steps
-
-Here are a few suggestions on what to do next if you're new to Netlify visual editor:
-
-- Learn [how Netlify visual editor works](https://docs.netlify.com/visual-editor/overview/)
-- Check [Netlify visual editor reference documentation](https://visual-editor-reference.netlify.com/)
 
 ## Support
 

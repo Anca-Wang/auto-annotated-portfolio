@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Anca
 colors: colors-a
 backgroundImage:
   type: BackgroundImage

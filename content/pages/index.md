@@ -89,7 +89,7 @@ sections:
         url: /projects
         showIcon: false
         icon: apple
-        iconPosition: right
+        iconPosition: left
         elementId: ''
     projects:
       - content/pages/projects/project-four.md

@@ -3,7 +3,9 @@ type: ProjectLayout
 title: App Design
 date: '2023-10-01'
 client: Awesome client
-description: Led the research and design of a food prep app and delivered within 2 weeks
+description: >-
+  Led the research and design of a food prep app and delivered high-quality
+  solution within 2 weeks
 featuredImage:
   type: ImageBlock
   url: /images/0.png

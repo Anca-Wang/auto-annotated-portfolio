@@ -3,7 +3,9 @@ type: ProjectLayout
 title: Web Design
 date: '2024-02-01'
 client: Awesome client
-description: Led the design of an international writing and reading website Login Page
+description: >-
+  Led the design of an international writing and reading website Login Page,
+  delivered within 1 week
 featuredImage:
   type: ImageBlock
   url: /images/Login.png

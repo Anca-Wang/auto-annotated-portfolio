@@ -8,7 +8,7 @@ description: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: /images/登陆主页.png
+  url: /images/Login.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''

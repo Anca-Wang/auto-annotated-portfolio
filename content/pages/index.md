@@ -132,7 +132,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 3. Fast Learning ability and Self-drive Character
+        title: 2. Fast Learning ability and Self-drive Character
         subtitle: ''
         text: >
           From a **law school student** to a frontend engineer and designer

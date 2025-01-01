@@ -8,9 +8,9 @@ description: >-
   and UI/UX design
 featuredImage:
   type: ImageBlock
-  url: /images/Login.png
-  altText: Project thumbnail image
-  caption: ''
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
   elementId: ''
 media:
   type: ImageBlock

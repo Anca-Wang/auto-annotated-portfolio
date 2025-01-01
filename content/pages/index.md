@@ -152,7 +152,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 4. Inclusive personality
+        title: 3. Inclusive personality
         subtitle: ''
         text: |
           I'm an **inclusive and flexible** person, **easygoing and friendly**

@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Weather Report (REST API)
+title: Weather Forecast (RESTful API)
 colors: colors-a
 date: '2024-08-08'
 client: Project 1

@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/2.png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
@@ -42,16 +42,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Homepage",
-                "altText": "",
-                "url": "https://anca.netlify.app",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
                 "label": "Contact Me",
                 "url": "mailto:ancawang888@gmail.com",
                 "altText": ""
@@ -91,5 +81,6 @@
                 ]
             }
         }
-    }
+    },
+    "defaultSocialImage": "/images/Screenshot 2025-01-01 at 09.47.29.png"
 }

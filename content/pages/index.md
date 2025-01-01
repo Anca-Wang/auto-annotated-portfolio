@@ -151,8 +151,12 @@ sections:
       - type: FeaturedItem
         title: 3. Fast Learning ability
         subtitle: ''
-        text: |
-          I love learning and **I learn fast**
+        text: >
+          From a **law school student** to a frontend engineer and designer
+          **within 2 years**, I know exactly what I want, and I work towards my
+          goal **continuously and productively**
+
+           I'm productive and **I learn fast**
         featuredImage:
           type: ImageBlock
           altText: Item image

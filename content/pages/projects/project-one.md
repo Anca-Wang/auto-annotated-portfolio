@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: React To-Do List
+title: To-Do List (React)
 colors: colors-a
 date: '2024-08-23'
 client: React To-Do List

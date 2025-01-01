@@ -24,7 +24,7 @@ media:
 
 A dynamic to-do list application built with Vue.js that allows users to efficiently manage their tasks. The app features task creation, deletion, and completion tracking, all within a clean, minimalist UI.
 
-[Check out the live demo here!](https://anca-wang.github.io/Vue-TodoList/)
+[Live demo](https://anca-wang.github.io/Vue-TodoList/)
 
 [Source Code](https://github.com/Anca-Wang/Vue-TodoList/blob/main/README.md)
 

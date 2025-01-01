@@ -8,9 +8,9 @@ description: >-
   solution within 2 weeks
 featuredImage:
   type: ImageBlock
-  url: /images/Beh Thumnail.png
-  altText: Project thumbnail image
-  caption: ''
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
   elementId: ''
 media:
   type: ImageBlock

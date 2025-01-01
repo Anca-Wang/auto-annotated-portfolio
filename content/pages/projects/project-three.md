@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Vue To-Do List
+title: To-Do List (Vue)
 colors: colors-a
 date: '2024-08-15'
 client: Project 2

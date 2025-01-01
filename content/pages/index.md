@@ -132,23 +132,6 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 2. Self-driven character
-        subtitle: ''
-        text: >
-          From a **law school student** to a frontend engineer and designer
-          **within 2 years**, I know exactly what I want, and I work towards my
-          goal **continuously and productively**
-        featuredImage:
-          type: ImageBlock
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
-        actions: []
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
         title: 3. Fast Learning ability and Self-drive Character
         subtitle: ''
         text: >

@@ -8,7 +8,7 @@ description: >-
   in a high-tech startup
 featuredImage:
   type: ImageBlock
-  url: /images/Sandbox Logo更新-1.jpg
+  url: /images/Beh Thumnail-2.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''

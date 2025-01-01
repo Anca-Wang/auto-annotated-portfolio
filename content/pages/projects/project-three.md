@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Vue To-Do List
+title: To-Do List (Vue)
 colors: colors-a
 date: '2024-08-15'
 client: Project 2
@@ -9,18 +9,22 @@ description: >-
   clean UI 
 featuredImage:
   type: ImageBlock
-  url: /images/project2.png
-  altText: Project thumbnail image
+  url: /images/l-project2.png
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 media:
   type: ImageBlock
-  url: /images/project2.png
-  altText: Project image
+  url: /images/l-project2.png
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 # Vue.js Dynamic To-Do List App
 
 A dynamic to-do list application built with Vue.js that allows users to efficiently manage their tasks. The app features task creation, deletion, and completion tracking, all within a clean, minimalist UI.
 
-[Check out the live demo here!](https://anca-wang.github.io/Vue-TodoList/)
+[Live demo](https://anca-wang.github.io/Vue-TodoList/)
 
 [Source Code](https://github.com/Anca-Wang/Vue-TodoList/blob/main/README.md)
 

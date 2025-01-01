@@ -79,7 +79,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Coding
+    subtitle: Frontend Coding
   - type: FeaturedProjectsSection
     subtitle: UI/UX Designs
     actions:

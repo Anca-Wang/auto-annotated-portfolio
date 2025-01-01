@@ -30,7 +30,5 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-# Check the full project: 
-
-[Anca's Design Projects](https://www.behance.net/anca888)
+### ****[**Full project**](https://www.behance.net/gallery/142773835/Interactive-Portfolio)
 

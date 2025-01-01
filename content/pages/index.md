@@ -79,7 +79,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: Coding
   - type: FeaturedProjectsSection
     subtitle: Designs
     actions:

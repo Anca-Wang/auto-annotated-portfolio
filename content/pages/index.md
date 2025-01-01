@@ -119,7 +119,7 @@ sections:
       actions:
         justifyContent: center
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Why you should hire me
     items:
       - type: FeaturedItem
         title: 1. Versitile Talent

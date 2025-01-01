@@ -8,7 +8,7 @@ description: >-
   solution within 2 weeks
 featuredImage:
   type: ImageBlock
-  url: /images/0.png
+  url: /images/Beh Thumnail.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''

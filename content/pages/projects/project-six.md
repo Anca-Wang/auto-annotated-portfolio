@@ -14,7 +14,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Sandbox Logo更新-1.jpg
+  url: /images/Beh Thumnail-2.png
   altText: Project image
   caption: Caption of the image
   elementId: ''

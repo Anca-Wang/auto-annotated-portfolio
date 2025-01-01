@@ -79,9 +79,9 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: Frontend Coding
   - type: FeaturedProjectsSection
-    subtitle: Designs
+    subtitle: UI/UX Designs
     actions:
       - type: Link
         label: See all projects
@@ -93,7 +93,7 @@ sections:
         elementId: ''
     projects:
       - content/pages/projects/project-four.md
-      - content/pages/projects/project-five.md
+      - content/pages/projects/interactive-portfolio.md
       - content/pages/projects/project-six.md
     colors: colors-d
     variant: variant-b
@@ -119,7 +119,7 @@ sections:
       actions:
         justifyContent: center
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Why you should hire me
     items:
       - type: FeaturedItem
         title: 1. Versitile Talent
@@ -132,12 +132,15 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 2. Self-driven character
+        title: 2. Fast Learning ability and Self-drive Character
         subtitle: ''
         text: >
           From a **law school student** to a frontend engineer and designer
           **within 2 years**, I know exactly what I want, and I work towards my
           goal **continuously and productively**
+
+
+          I'm made of productivity and **I learn fast**
         featuredImage:
           type: ImageBlock
           altText: Item image
@@ -149,22 +152,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 3. Fast Learning ability
-        subtitle: ''
-        text: |
-          I love learning and **I learn fast**
-        featuredImage:
-          type: ImageBlock
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
-        actions: []
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: 4. Inclusive personality
+        title: 3. Inclusive personality
         subtitle: ''
         text: |
           I'm an **inclusive and flexible** person, **easygoing and friendly**

@@ -8,7 +8,7 @@ description: >-
   and UI/UX design
 featuredImage:
   type: ImageBlock
-  url: /images/Beh Thumnail.png
+  url: /images/Beh Thumnail-1.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''

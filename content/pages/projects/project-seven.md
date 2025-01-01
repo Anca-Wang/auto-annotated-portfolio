@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Game Hub (React)
 date: '2024-12-01'
 client: Awesome client
-description: ''
+description: 'Live game data fetching website, using react to enable the '
 featuredImage:
   type: ImageBlock
   url: /images/project7.png

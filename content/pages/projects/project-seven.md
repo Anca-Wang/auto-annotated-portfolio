@@ -23,7 +23,4 @@ colors: colors-a
 
 [**Source Code**](https://github.com/Anca-Wang/game-hub)
 
-
-
-Game Hub 
-
+Live Game Hub, fetching live data from a game website, using RESTAPI

@@ -32,5 +32,4 @@ backgroundImage:
 ---
 # Check the full project
 
-\*\*\*\*[**Full project**](https://www.behance.net/gallery/142773835/Interactive-Portfolio)
-
+[**Full project**](https://www.behance.net/gallery/142773835/Interactive-Portfolio)

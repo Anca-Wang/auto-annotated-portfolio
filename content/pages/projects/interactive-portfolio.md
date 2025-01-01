@@ -4,8 +4,8 @@ title: Interactive Portfolio
 date: '2022-12-17'
 client: Awesome client
 description: >-
-  Led the design of an international writing and reading website Login Page,
-  delivered within 1 week
+  Interactive portfolio with four different projects, including game, modeling
+  and UI/UX design
 featuredImage:
   type: ImageBlock
   url: /images/Login.png

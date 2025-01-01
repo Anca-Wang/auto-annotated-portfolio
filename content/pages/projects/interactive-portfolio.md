@@ -30,5 +30,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-### ****[**Full project**](https://www.behance.net/gallery/142773835/Interactive-Portfolio)
+# Check the full project
+
+\*\*\*\*[**Full project**](https://www.behance.net/gallery/142773835/Interactive-Portfolio)
 

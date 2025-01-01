@@ -14,7 +14,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Login.png
+  url: /images/Beh Thumnail-1.png
   altText: Project image
   caption: Caption of the image
   elementId: ''

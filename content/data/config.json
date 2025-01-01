@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/2.png",
+    "favicon": "/images/favicon.ico",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",

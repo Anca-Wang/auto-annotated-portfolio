@@ -81,7 +81,7 @@ sections:
         justifyContent: flex-end
     subtitle: Coding
   - type: FeaturedProjectsSection
-    subtitle: Designs
+    subtitle: UI/UX Designs
     actions:
       - type: Link
         label: See all projects

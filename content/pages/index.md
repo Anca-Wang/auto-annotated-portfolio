@@ -139,7 +139,8 @@ sections:
           **within 2 years**, I know exactly what I want, and I work towards my
           goal **continuously and productively**
 
-           I'm productive and **I learn fast**
+
+          I'm made of productivity and **I learn fast**
         featuredImage:
           type: ImageBlock
           altText: Item image

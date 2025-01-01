@@ -93,8 +93,8 @@ sections:
         elementId: ''
     projects:
       - content/pages/projects/project-four.md
-      - content/pages/projects/project-six.md
       - content/pages/projects/interactive-portfolio.md
+      - content/pages/projects/project-six.md
     colors: colors-d
     variant: variant-b
     elementId: ''

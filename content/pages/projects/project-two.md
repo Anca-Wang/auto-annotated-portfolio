@@ -20,9 +20,9 @@ media:
 
 A real-time weather report and next 7 hours weather forecast web application. Supports searching for location-based weather updates and provides users with a clean, responsive UI for current weather conditions. Custom icons are used to visually enhance the weather display.
 
-[Check out the live demo here!](https://anca-wang.github.io/API-Weather-forecast/)
+*   ****[**Live demo**](https://anca-wang.github.io/API-Weather-forecast/)****
 
-[Source code](https://github.com/Anca-Wang/API-Weather-forecast/blob/main/README.md)
+*   [**Source code**](https://github.com/Anca-Wang/API-Weather-forecast/blob/main/README.md)
 
 ## Purpose
 
@@ -30,15 +30,13 @@ This app is designed to give users an easy and quick way to check the current we
 
 ## Features
 
-*   **Real-time Weather Updates**: Displays the current weather conditions in your area.
-
-*   **7-hour Forecast**: Provides a forecast for the next 7 hours, helping users plan their day.
-
-*   **Custom Icons**: Replaces the default icons from Axios with a personalized set based on weather codes, providing a more aesthetically pleasing interface.
+*   **Real-time Weather Updates**: Engineered a real-time weather forecast web app using JavaScript and Axios for efficient API integration with OpenWeather. Provides a forecast for the next 7 hours, helping users plan their day.
 
 *   **Search Functionality**: Allows users to search for weather updates in any city.
 
-*   **Clean and Responsive UI**: The design ensures an optimal viewing experience on all devices, including desktops, tablets, and mobile phones.
+*   **Clean and Responsive UI**: Designed and developed a responsive, intuitive UI with a focus on data visualisation, incorporating weather icons and dynamic backgrounds that change based on weather conditions
+
+*   **Custom Icons**: Replaces the default icons from Axios with a personalized set based on weather codes, providing a more aesthetically pleasing interface.
 
 ## Future Updates
 

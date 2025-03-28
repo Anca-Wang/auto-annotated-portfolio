@@ -8,7 +8,7 @@ description: >-
   delivered within 1 week
 featuredImage:
   type: ImageBlock
-  url: /images/Login.png
+  url: /images/Beh thumnail-3.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
